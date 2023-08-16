@@ -48,16 +48,16 @@
 
 
 ### 第5章　データ構造
-* 5.1 リストのメソッド[問題１](chapter05/Q4_1_1.py)
-* 5.2 リスト内包表記[問題１](chapter05/Q4_2_1.py)
-* 5.3 del を使った削除[問題１](chapter05/Q4_3_1.py)
-* 5.4 タプル[問題１](chapter05/Q4_4_1.py)
-* 5.5 集合（set)[問題１](chapter05/Q4_5_1.py)
-* 5.6 集合を使った演算[問題１](chapter05/Q4_6_1.py)
-* 5.7 辞書（dict）[問題１](chapter05/Q4_7_1.py)
-* 5.8 辞書を使ったプログラミング[問題１](chapter05/Q4_8_1.py)
-* 5.9 ループのテクニック[問題１](chapter05/Q4_9_1.py)
-* 5.10 比較[問題１](chapter05/Q4_10_1.py)
+* 5.1 リストのメソッド[問題１](chapter05/Q5_1_1.py)[問題２](chapter05/Q5_1_2.py)[問題３](chapter05/Q5_1_3.py)
+* 5.2 リスト内包表記[問題１](chapter05/Q5_2_1.py)[問題２](chapter05/Q5_2_2.py)[問題３](chapter05/Q5_2_3.py)
+* 5.3 del を使った削除[問題１](chapter05/Q5_3_1.py)[問題２](chapter05/Q5_3_2.py)
+* 5.4 タプル[問題１](chapter05/Q5_4_1.py)[問題２](chapter05/Q5_4_2.py)[問題３](chapter05/Q5_4_3.py)[問題４](chapter05/Q5_4_4.py)
+* 5.5 集合（set)[問題１](chapter05/Q5_5_1.py)[問題２](chapter05/Q5_5_2.py)
+* 5.6 集合を使った演算[問題１](chapter05/Q5_6_1.py)[問題２](chapter05/Q5_6_2.py)
+* 5.7 辞書（dict）[問題１](chapter05/Q5_7_1.py)[問題２](chapter05/Q5_7_2.py)
+* 5.8 辞書を使ったプログラミング[問題１](chapter05/Q5_8_1.py)[問題２](chapter05/Q5_8_2.py)
+* 5.9 ループのテクニック[問題１](chapter05/Q5_9_1.py)
+* 5.10 比較[問題１](chapter05/Q5_10_1.py)
 
 
 ### 第6章　クラス
