@@ -22,7 +22,7 @@
 * 2.11 複数同時代入[問題１](chapter02/Q2_11_1.py)[問題２](chapter02/Q2_11_2.py)
 * 2.12 モジュールの利用[問題１](chapter02/Q2_12_1.py)[問題２](chapter02/Q2_12_2.py)
 * 2.13 importのいろいろな書き方[問題１](chapter02/Q2_13_1.py)[問題２](chapter02/Q2_13_2.py)
-
+* 2.final [問題](chapter02/Q2_final.py)
 
 ### 第3章　制御構文
 * 3.1 if文の基礎[問題１](chapter03/Q3_1_1.py)[問題２](chapter03/Q3_1_2.py)
